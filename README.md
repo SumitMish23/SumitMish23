@@ -2,9 +2,10 @@
 
 ---
 
-Reach Out Me at [email](sumit894sumit@gmail.com)
+Reach Out Me at [Email](sumit894sumit@gmail.com)
 
-![Alt Text](https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47rc7x0udeoztxwm40clrfne6z9hje8lnih1op6lwu&rid=giphy.gif&ct=g)
+
+<img src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47rc7x0udeoztxwm40clrfne6z9hje8lnih1op6lwu&rid=giphy.gif&ct=g" width="250" height="250" align="right"/>
 
 
 <!---
