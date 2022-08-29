@@ -16,12 +16,13 @@
 <img src="" width="50" height="50" align="left"> -->
 
 
+<br/>
+<br/>
 
-<img src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47rc7x0udeoztxwm40clrfne6z9hje8lnih1op6lwu&rid=giphy.gif&ct=g" width="250" height="250" align="right"/>
+## 📈 Stats
 
+<p align="center">
 
-
-<!---
-SumitMish23/SumitMish23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SumitMish23&show_icons=true&theme=dracula" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitMish23&theme=dracula" />
+</p>
