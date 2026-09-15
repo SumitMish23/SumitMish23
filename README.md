@@ -1,7 +1,7 @@
 Hola Amigo !
 ---
 
-- Wanna Reach Me,[Email](mailto:sumit894sumit@gmail.com)
+- Wanna Reach Me - [Email](mailto:sumitmishratech@gmail.com)
 - Ask Me Anything About tech, Will Love to Help ! 
 
 **Languages And Frameworks:-**
